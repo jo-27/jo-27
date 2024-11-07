@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm JOAN SHARON A</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">passionate Data Analyst</h3>
 
 - 🌱 I’m currently learning **Data cleaning and Visualizations**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rwhFZyJOi4cQcJlCcvJCCsfM9tFBOXWz/view?usp=sharing](https://drive.google.com/file/d/1rwhFZyJOi4cQcJlCcvJCCsfM9tFBOXWz/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/1rwhFZyJOi4cQcJlCcvJCCsfM9tFBOXWz/view?usp=sharing](https://drive.google.com/file/d/1rwhFZyJOi4cQcJlCcvJCCsfM9tFBOXWz/view?usp=sharing)
 
 - 🤝 I’m looking to collaborate with **Analysts**
 
 - 📫 To reach me **joansharon270704@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joan-sharon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joan-sharon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharon_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharon_04" height="30" width="40" /></a>
